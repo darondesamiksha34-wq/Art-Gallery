@@ -1,4 +1,4 @@
 # Art-Gallery
 This is my first Git repository
 <br>
-Author-samiksha
+Author-samiksha (Mca student)
